@@ -1,0 +1,15 @@
+.container {
+    margin-top: 50px;
+}
+
+.btn {
+    margin-top: 20px;
+}
+
+#itemPrice {
+    font-weight: 600;
+}
+
+.row {
+    margin-bottom: 10px;
+}
